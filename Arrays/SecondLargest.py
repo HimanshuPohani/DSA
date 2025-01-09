@@ -1,4 +1,3 @@
-
 class Solution:
     def getSecondLargest(self,arr):
         n = len(arr)
