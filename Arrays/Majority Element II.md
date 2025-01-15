@@ -5,4 +5,13 @@ Note: The answer should be returned in an increasing format.
 
 
 Approach:
+The algorithm identifies at most two candidates that could appear more than 
+𝑛/3times using the Boyer-Moore Voting Algorithm, verifies their counts in a second pass, and returns them sorted.
+
+
+
+
+
+
+
 
