@@ -18,6 +18,10 @@ Second pass: Find the largest element smaller than the first.
 Why less efficient? Requires two traversals of the array.
 
 
+
+
+
+
 3. Single Iteration (O(n)) - Optimal:
 Use two variables, first (largest) and second (second largest).
 Traverse the array:
